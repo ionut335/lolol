@@ -6,3 +6,4 @@ let delta = Math.sqrt((b*b)-(4*a*c));
 console.log((-b-delta)/(2*a));
 console.log((-b+delta)/(2*a));
 console.log(v,v2);
+}
